@@ -1,0 +1,2 @@
+# daikin
+wondows opencvdnn darknet
